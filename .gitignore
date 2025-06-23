@@ -1,2 +1,3 @@
 edvenv/
 echo ECommerce_consumer behaviour.csv >> .gitignore
+ECommerce_consumer behaviour.csv 
